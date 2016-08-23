@@ -116,6 +116,10 @@
     "Disabled": "Disabled",
     "Untitled": "Untitled",
     "Line of": "Line {{currentLine}} of {{numberOfLines}}",
+    "Text editor": "Text editor",
+    "Vim": "Vim",
+    "Emacs": "Emacs",
+    "Sublime": "Sublime",
     "encryption": {
         "provide password": "Please, provide your password",
         "change password": "Type your password here to change it",

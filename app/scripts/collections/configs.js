@@ -56,6 +56,7 @@ define([
             'appCreateNote'     : 'c',
             'appSearch'         : '/',
             'appKeyboardHelp'   : '?',
+            'textEditor'        : 'default',
 
             'modules'           : []
         },

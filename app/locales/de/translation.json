@@ -114,6 +114,10 @@
     "Disabled": "Deaktiviert",
     "Untitled": "Unbenannt",
     "Line of": "Zeile {{currentLine}} von {{numberOfLines}}",
+    "Text editor": "Texteditor",
+    "Vim": "Vim",
+    "Emacs": "Emacs",
+    "Sublime": "Sublime",
     "encryption": {
         "provide password": "Bitte, geben Sie Ihr Passwort ein",
         "change password": "Geben Sie Ihr Passwort hier ein, um es zu ändern",
