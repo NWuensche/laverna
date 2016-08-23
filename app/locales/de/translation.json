@@ -114,6 +114,7 @@
     "Disabled": "Deaktiviert",
     "Untitled": "Unbenannt",
     "Line of": "Zeile {{currentLine}} von {{numberOfLines}}",
+	"Drop files": "Ziehen Sie hier die Dateien zum Hochladen hinein",
     "Text editor": "Texteditor",
     "Vim": "Vim",
     "Emacs": "Emacs",

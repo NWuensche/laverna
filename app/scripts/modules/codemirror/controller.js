@@ -110,6 +110,7 @@ define([
                 lineNumbers   : false,
                 matchBrackets : true,
                 lineWrapping  : true,
+				indentUnit	  : 4,
                 extraKeys     : {
                     'Cmd-B'  : this.boldAction,
                     'Ctrl-B' : this.boldAction,
@@ -140,7 +141,14 @@ define([
                     'Cmd-D'  : this.hrAction,
                     'Ctrl-D' : this.hrAction,
 
-                    'Enter': 'newlineAndIndentContinueMarkdownList'
+					// Ctrl+. - indent line
+					'Ctrl-.' 		: 'indentMore',
+					'Shift-Ctrl-.' 	: 'indentLess',
+					'Cmd-.' 		: 'indentMore',
+					'Shift-Cmd-.'	: 'indentLess',
+
+                    'Enter' : 'newlineAndIndentContinueMarkdownList',
+
                 }
             });
 
